@@ -2,7 +2,7 @@
 
 블록체인을 스터디하며 기록하기 위한 저장소입니다.
 
-- 블록체인 간단 설명
+- [블록체인 간단 설명](https://github.com/lbo728/BlockChainStudy/blob/main/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B0%84%EB%8B%A8%20%EC%84%A4%EB%AA%85/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80.md)
 - [블록체인 무엇인가(도서)](#블록체인-무엇인가)
 - 디센트 아카데미
 
@@ -35,8 +35,8 @@
 
 - [8단계: 블록체인의 청사진 그리기](https://github.com/lbo728/BlockChainStudy/blob/main/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F/03/08_%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%98_%EC%B2%AD%EC%82%AC%EC%A7%84_%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
 - [9단계: 소유권 기록에서 모든 것이 시작된다](https://github.com/lbo728/BlockChainStudy/blob/main/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F/03/09_%EC%86%8C%EC%9C%A0%EA%B6%8C_%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C_%EB%AA%A8%EB%93%A0_%EA%B2%83%EC%9D%B4_%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4.md)
-- 10단계: 데이터 해싱하기
-- 11단계: 해시값은 어디서 어떻게 사용될까?
+- [10단계: 데이터 해싱하기](https://github.com/lbo728/BlockChainStudy/blob/main/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F/03/10_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%95%B4%EC%8B%B1%ED%95%98%EA%B8%B0.md)
+- [11단계: 해시값은 어디서 어떻게 사용될까?](https://github.com/lbo728/BlockChainStudy/blob/main/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F/03/11_%ED%95%B4%EC%8B%9C%EA%B0%92%EC%9D%80_%EC%96%B4%EB%94%94%EC%84%9C_%EC%96%B4%EB%96%BB%EA%B2%8C_%EC%82%AC%EC%9A%A9%EB%90%A0%EA%B9%8C%3F.md)
 - 12단계: 암호화 기법을 소개합니다
 - 13단계: 노드 여러분, 트랜잭션을 승인합니까?
 - 14단계: 블록체인-데이터-구조를 만들어보십다
