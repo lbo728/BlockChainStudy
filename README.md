@@ -2,6 +2,12 @@
 
 블록체인을 스터디하며 기록하기 위한 저장소입니다.
 
+---
+
+## [블록체인 무엇인가?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=133677929)
+
+<img width="320" alt="블록체인_무엇인가" src="https://image.yes24.com/goods/58551591/XL">
+
 <br>
 
 ### 목차
@@ -45,3 +51,5 @@
 
 - 24단계: 우리도 블록체인을 써볼까?
 - 25단계: 블록체인의 미래 그려보기
+
+---
