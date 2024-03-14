@@ -4,7 +4,7 @@
 
 - [블록체인 간단 설명](https://github.com/lbo728/BlockChainStudy/blob/main/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B0%84%EB%8B%A8%20%EC%84%A4%EB%AA%85/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80.md)
 - [블록체인 무엇인가(도서)](#블록체인-무엇인가)
-- 디센트 아카데미
+- [디센트 아카데미](https://academy.dcentwallet.com/v/ko/blockchain-basic/the-meaning-of-decentralization)
 
 <br>
 
